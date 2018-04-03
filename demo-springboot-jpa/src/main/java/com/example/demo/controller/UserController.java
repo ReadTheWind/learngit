@@ -10,7 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.User;
 import com.example.demo.service.IUserService;
-
+/**
+ * controller
+ * @author Administrator
+ *
+ */
 @RestController
 public class UserController {
 
